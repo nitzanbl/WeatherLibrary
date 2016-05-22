@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\WWeatherTest\bin\Debug\WWeatherTest.dll
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\WWeatherTest\bin\Debug\WWeatherTest.pdb
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\WWeatherTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\WWeatherTest\obj\Debug\WWeatherTest.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\WWeatherTest\obj\Debug\WWeatherTest.dll
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\WWeatherTest\obj\Debug\WWeatherTest.pdb
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\WWeatherTest\bin\Debug\Weather.dll
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\WWeatherTest\bin\Debug\Weather.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WWeatherTest\WWeatherTest\bin\Debug\MockData\forcast.json
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WWeatherTest\WWeatherTest\bin\Debug\MockData\weather.json
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WWeatherTest\WWeatherTest\bin\Debug\MockData\uv.json

@@ -1,0 +1,39 @@
+﻿{
+  "coord": {
+    "lon": 34.78,
+    "lat": 32.08
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "cmc stations",
+  "main": {
+    "temp": 18.31,
+    "pressure": 1021.88,
+    "humidity": 100,
+    "temp_min": 18.31,
+    "temp_max": 18.31,
+    "sea_level": 1026.99,
+    "grnd_level": 1021.88
+  },
+  "wind": {
+    "speed": 1.81,
+    "deg": 235.5
+  },
+  "clouds": { "all": 0 },
+  "dt": 1463003217,
+  "sys": {
+    "message": 0.0034,
+    "country": "IL",
+    "sunrise": 1462934726,
+    "sunset": 1462984166
+  },
+  "id": 293397,
+  "name": "Tel Aviv",
+  "cod": 200
+}

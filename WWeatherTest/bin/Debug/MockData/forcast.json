@@ -1,0 +1,84 @@
+﻿{
+  "city": {
+    "id": 293397,
+    "name": "Tel Aviv",
+    "coord": {
+      "lon": 34.780571,
+      "lat": 32.080879
+    },
+    "country": "IL",
+    "population": 0,
+    "sys": {
+      "population": 0
+    }
+  },
+  "cod": "200",
+  "message": 0.0029,
+  "cnt": 40,
+  "list": [
+    {
+      "dt": 1462989600,
+      "main": {
+        "temp": 19.28,
+        "temp_min": 19.28,
+        "temp_max": 19.28,
+        "pressure": 1021.64,
+        "sea_level": 1026.62,
+        "grnd_level": 1021.64,
+        "humidity": 100,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 32
+      },
+      "wind": {
+        "speed": 1.96,
+        "deg": 262
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2016-05-11 18:00:00"
+    },
+    {
+      "dt": 1463000400,
+      "main": {
+        "temp": 18.31,
+        "temp_min": 18.31,
+        "temp_max": 18.31,
+        "pressure": 1021.88,
+        "sea_level": 1026.99,
+        "grnd_level": 1021.88,
+        "humidity": 100,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 1.81,
+        "deg": 235.5
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2016-05-11 21:00:00"
+    }
+  ]
+}

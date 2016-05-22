@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\Weather\bin\Debug\Weather.dll
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\Weather\bin\Debug\Weather.pdb
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\Weather\obj\Debug\Weather.dll
+\\mac\home\documents\visual studio 2015\Projects\WWeatherTest\Weather\obj\Debug\Weather.pdb
